@@ -2,3 +2,4 @@
 
 phpinfo();
 
+echo 100;
